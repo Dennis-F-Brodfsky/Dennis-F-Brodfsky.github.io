@@ -2,7 +2,7 @@
 
 ## Project Structure & Module Organization
 
-This repository is a Jekyll-powered GitHub Pages blog. Site-wide settings live in `_config.yml`. Top-level pages such as `index.html`, `about.html`, and `tags.html` use templates from `_layouts/` and reusable fragments from `_includes/`. Draft and article content belongs in `_drafts/` and `_post/` respectively; preserve the existing directory names even though standard Jekyll projects commonly use `_posts/`. Theme source is split between `less/` and `js/`, while compiled CSS is committed under `css/`. Images and fonts belong in `img/` and `fonts/`. `sw.js` and `offline.html` provide offline behavior.
+This repository is a Jekyll-powered GitHub Pages blog. Site-wide settings live in `_config.yml`. Top-level pages such as `index.html`, `about.html`, and `tags.html` use templates from `_layouts/` and reusable fragments from `_includes/`. Draft and article content belongs in `_drafts/` and `_posts/` respectively. Theme source is split between `less/` and `js/`, while compiled CSS is committed under `css/`. Images and fonts belong in `img/` and `fonts/`. `sw.js` and `offline.html` provide offline behavior.
 
 ## Build, Test, and Development Commands
 

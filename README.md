@@ -7,25 +7,25 @@ Dennis-F-Brodfsky 的个人博客，使用 GitHub Pages 与 Jekyll 构建。
 安装依赖：
 
 ```bash
-gem install jekyll jekyll-paginate
+bundle install
 ```
 
 启动本地服务：
 
 ```bash
-jekyll serve
+bundle exec jekyll serve
 ```
 
 包含草稿启动：
 
 ```bash
-jekyll serve --drafts
+bundle exec jekyll serve --drafts
 ```
 
 生产构建验证：
 
 ```bash
-jekyll build
+bundle exec jekyll build
 ```
 
 站点地址：<https://dennis-f-brodfsky.github.io>

@@ -1,0 +1,4 @@
+interface:
+  display_name: "arXiv Paper Fetcher"
+  short_description: "Download arXiv papers in the best AI-readable format"
+  default_prompt: "Fetch the provided arXiv paper and store an AI-readable local copy."
